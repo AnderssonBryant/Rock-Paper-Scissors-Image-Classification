@@ -4,6 +4,8 @@
 
 This project is created as a part of the "Belajar Machine Learning untuk Pemula" course by Dicoding. The primary objective is to build an image classification system for the classic game Rock, Paper, Scissors. The project aims to develop a machine learning model capable of accurately identifying and classifying images of hand gestures representing rock, paper, and scissors.
 
+For full project you can visit this link: [KlasifikasiRockPaperScicors](https://colab.research.google.com/drive/1UqIeSHdtjpJb7xPxuxkXr4BQc0679YWK?usp=sharing)
+
 ## Features
 
 - Image Classification: Implement a deep learning model to classify hand gesture images into three categories: rock, paper, and scissors.
